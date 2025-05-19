@@ -16,5 +16,9 @@
     "url": "https://github.com/Aman7902K/BackEnd_Practice/issues"
   },
   "homepage": "https://github.com/Aman7902K/BackEnd_Practice#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
 }
